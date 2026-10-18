@@ -1,0 +1,6 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "installCommand": "cd karim && npm install",
+  "buildCommand": "cd karim && npm run build",
+  "outputDirectory": "karim/build"
+}
